@@ -17,4 +17,12 @@ Data Visualization
 
 
 Interaction Design
+Webinars:
+Brian McLaughlin – Creating and Scaling Enterprise Design Systems
+https://www.youtube.com/watch?v=E_iYI1lcvo0 
+Hosted by UX Pin
 
+
+Mark Figueiredo – Designing a Sustainable Enterprise UX Process
+https://youtu.be/5PjMqZVjjQQ
+Hosted by UX Pin
